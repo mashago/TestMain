@@ -1,3 +1,0 @@
-[submodule "my_hello"]
-	path = my_hello
-	url = https://mashago@github.com/mashago/hello.git
